@@ -1,0 +1,1 @@
+This dataset is about customer shopping trend. In this file you can see the excel updated for cleaning and also analysis, Power BI dashboard to viasualize the data as necessary and also SQL query for the dataset to match with the requirement.
